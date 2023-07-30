@@ -1,0 +1,8 @@
+{
+    "load": [
+        "GUI-mage.lua",
+        "arcane-retail.lua",
+        "fire-retail.lua",
+        "frost-retail.lua",
+    ]
+}
